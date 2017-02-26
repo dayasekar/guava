@@ -1,4 +1,4 @@
-package org.daya.guava;
+package org.daya.guava.service;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
